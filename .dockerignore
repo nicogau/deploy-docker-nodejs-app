@@ -1,0 +1,6 @@
+Dockerfile
+node_modules
+front/node_modules
+dist
+front/dist
+
